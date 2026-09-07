@@ -96,7 +96,7 @@ Enjeu principal : la croissance historique venant du volume de commandes, les le
 
 * Lien performance/richesse régionale : hypothèse à confirmer avec le PIB/habitant
 * Données 2016 exclues (volume marginal)
-* Nulls attendus sur les dates de livraison (~3% des commandes non encore livrées au moment de l'extraction) — non problématique car l'analyse porte sur les commandes livrées
+* Nulls attendus sur les dates de livraison (~3% des commandes non encore livrées au moment de l'extraction) mais n'est pas problématique car l'analyse porte sur les commandes livrées
 * order_approved_at : 0,16% de nulls, jugés négligeables
 * Environ 180k R$ de CA sans catégorie identifiée (traduction manquante)
   
