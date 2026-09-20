@@ -76,7 +76,7 @@ Enjeu principal : la croissance historique venant du volume de commandes, les le
 <img width="1050" height="732" alt="image" src="https://github.com/user-attachments/assets/5ee1bcfe-275b-4e55-9934-2897220b3212" />
 
 
-- São Paulo concentre environ 40% du CA. Rapporté à la population, São Paulo, Rio de Janeiro et Distrito Federal (SP/RJ/DF) se situent au même niveau : la domination de São Paulo s'explique par son poids démographique et n'est donc pas une fragilité anormale.
+- São Paulo concentre environ 40% du CA. Rapporté à la population, São Paulo, Rio de Janeiro et Distrito Federal (SP/RJ/DF) se situent au même niveau : la domination de São Paulo s'explique par son poids démographique.
 - Les États de Bahia, Ceará et Pará (BA/CE/PA) ont une forte population mais un CA par habitant faible comparé à SP/RJ/DF : ils représentent potentiellement une part de marché sous-exploitée.
 - Les catégories consommées sont quasi identiques entre les régions performantes (SP/RJ/DF) et celles à potentiel (BA/CE/PA). Le levier de croissance se situe donc au niveau de la pénétration du marché, sans nécessité de modifier l'offre.
 - La répartition du CA entre régions reste stable sur toute la période avec une croissance géographiquement homogène ainsi aucune région ne se démarque. Cela suggère qu'aucun levier régional ciblé n'a encore été activé, laissant une marge d'action, notamment vers les États sous-exploités de Bahia, Ceará et Pará.
