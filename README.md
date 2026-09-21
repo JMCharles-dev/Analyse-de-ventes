@@ -54,7 +54,7 @@ Enjeu principal : la croissance historique venant du volume de commandes, les le
 <img width="1051" height="731" alt="image" src="https://github.com/user-attachments/assets/527dc507-b99a-4e0e-bb96-8ec65c0d0796" />
 
 - Le CA est passé de 112k R$ en début 2017 à environ 650k R$ fin 2017 avec un pic isolé à 988k R$ en novembre 2017, soit une forte croissance sur l'année, avant de se stabiliser autour de 826-978k R$/mois en 2018.
-- Cette croissance est due aux volume de commandes de 750 à 7k/mois et non au panier moyen, resté stable autour de 130 R$. La stagnation du panier moyen est un levier économique sous exploitée.
+- Cette croissance est due aux volume de commandes passant de 750 à 7k/mois et non au panier moyen, resté stable autour de 130 R$. La stagnation du panier moyen démontre un levier économique sous exploitée.
 
 ### 2. Répartition du CA par catégorie
 
