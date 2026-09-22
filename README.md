@@ -30,16 +30,6 @@ Lien vers le détail technique :
 
 La plateforme e-commerce Olist a généré un chiffre d'affaires total de 13,2 millions de réal brésilien (2,2 millions en euro) sur deux ans, avec plus de 96 478 commandes enregistrées sur l'ensemble des marchés.
 
-• Les ventes ont culminé à 10,2 millions de dollars en 2020, grâce à la forte hausse liée à la pandémie, avant de retomber à 5 millions de dollars en 2022, un niveau inférieur à celui de 2019.
-Trois produits phares – l'écran gaming 4K 27 pouces, les AirPods d'Apple et le MacBook Air – ont représenté environ 80 % des ventes annuelles.
-
-• Au niveau régional, l'Amérique du Nord a généré plus de 50 % des ventes de manière constante, tandis que les régions Asie-Pacifique et Amérique latine sont restées stables, ce qui laisse entrevoir un potentiel inexploité.
-
-• La part des ventes générées par les membres du programme de fidélité est passée de 12 % en 2019 à plus de 50 % en 2021.
-Par ailleurs, la contribution du marketing par e-mail a doublé, passant de 8 % à 16 % sur la même période, tandis que le trafic direct a diminué. Cela suggère que les campagnes d'e-mailing ciblées ont probablement contribué à dynamiser l'engagement des membres du programme de fidélité et les ventes.
-
-
-
 Entre 2017 et 2018, le chiffre d'affaires d'Olist a fortement augmenté, du fait de la hausse du nombre de commandes et non du panier moyen (stable autour de 130 R$). L'année 2018 signale un ralentissement de cette croissance : de nouveaux leviers doivent donc être trouvés.
 
 Le CA repose sur une base solide et diversifiée : environ 17 catégories sur 73 génèrent l'essentiel du chiffre d'affaires, ce qui limite le risque de dépendance à un seul produit.
