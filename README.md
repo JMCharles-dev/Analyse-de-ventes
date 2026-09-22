@@ -1,4 +1,4 @@
-# Analyse de la performance commerciale d'Olist
+# Performance commerciale d'Olist
 
 ## Contexte & vue d'ensemble
 
@@ -6,7 +6,9 @@ Olist est une marketplace brésilienne qui met en relation des vendeurs et des c
 Ces données, anonymisées, permettent de suivre le cycle de vie d'une commande, du paiement à la livraison et à l'évaluation client.
 Ce projet se concentre spécifiquement sur l'exploration des leviers de croissance possible du Chiffre d'Affaire afin d'ajuster les décisions commerciales.
 
-Décision : Sur quelles catégories de produits et quelles régions concentrer les efforts pour que le chiffre d'affaires continue à croître.
+Performance Produit : Évaluation des performances par catégorie de produits afin d'identifier les meilleures ventes et les produits sous-performants.
+Performance Région : Évaluation des performances par région afin d'identifier les top régions et celles sous-performantes.
+
 
 Les axes analysés :
 
@@ -19,17 +21,24 @@ Lien vers le détail technique :
 
 * Le nettoyage des données (Python/pandas) est disponible dans ce [notebook](https://github.com/JMCharles-dev/charles.jordana/blob/main/nettoyage.ipynb).
 * Requêtes [SQL](https://github.com/JMCharles-dev/charles.jordana/blob/main/requetes.sql).
+* Un audit complet de la qualité des données (complétude, valeurs manquantes, décisions) est disponible [ici](https://github.com/JMCharles-dev/charles.jordana/blob/main/audit.csv).
 
-
-## Structure des données
-Le jeu de données Olist est composé de 9 tables, l'analyse n'a nécessité que 6 d'entre elles. La table centrale Orders relie les commandes aux tables clients, paiements et articles. Chaque commande est associée à un ou plusieurs articles, eux-mêmes rattachés à un produit. Le client de chaque commande est localisé via son État.
-
-<img width="1066" height="461" alt="image" src="https://github.com/user-attachments/assets/6aaae3ff-0e1d-4aef-8eb1-cb03c9c01e89" />
-
-Les données permettent d'exploiter plusieurs dimensions : le temps (dates de commande), la géographie (État du client), le produit (catégorie), et le client, permettant de croiser le chiffre d'affaires selon plusieurs axes.
 
 
 ## Résumé 
+
+
+La plateforme e-commerce Olist a généré un chiffre d'affaires total de 13,2 millions de réal brésilien (2,2 millions en euro) sur deux ans, avec plus de 96 478 commandes enregistrées sur l'ensemble des marchés.
+
+• Les ventes ont culminé à 10,2 millions de dollars en 2020, grâce à la forte hausse liée à la pandémie, avant de retomber à 5 millions de dollars en 2022, un niveau inférieur à celui de 2019.
+Trois produits phares – l'écran gaming 4K 27 pouces, les AirPods d'Apple et le MacBook Air – ont représenté environ 80 % des ventes annuelles.
+
+• Au niveau régional, l'Amérique du Nord a généré plus de 50 % des ventes de manière constante, tandis que les régions Asie-Pacifique et Amérique latine sont restées stables, ce qui laisse entrevoir un potentiel inexploité.
+
+• La part des ventes générées par les membres du programme de fidélité est passée de 12 % en 2019 à plus de 50 % en 2021.
+Par ailleurs, la contribution du marketing par e-mail a doublé, passant de 8 % à 16 % sur la même période, tandis que le trafic direct a diminué. Cela suggère que les campagnes d'e-mailing ciblées ont probablement contribué à dynamiser l'engagement des membres du programme de fidélité et les ventes.
+
+
 
 Entre 2017 et 2018, le chiffre d'affaires d'Olist a fortement augmenté, du fait de la hausse du nombre de commandes et non du panier moyen (stable autour de 130 R$). L'année 2018 signale un ralentissement de cette croissance : de nouveaux leviers doivent donc être trouvés.
 
@@ -38,6 +47,10 @@ Le CA repose sur une base solide et diversifiée : environ 17 catégories sur 73
 Géographiquement, le CA est concentré sur São Paulo, Rio de Janeiro et le District Fédéral (SP/RJ/DF) des états avec une densité de population élevée. À l'inverse, plusieurs grands États tels que Bahia, Ceará et Pará (BA, CE, PA) ont une forte population mais Olist y est peu implanter : ils représentent donc un potentiel de croissance.
 
 Enjeu principal : la croissance historique venant du volume de commandes, les leviers à activer sont l'acquisition de nouveaux clients notamment dans les régions à fort potentiel comme Bahia, Ceará et Pará (BA, CE, PA).
+
+
+
+
 
 <img width="1200" height="861" alt="image" src="https://github.com/user-attachments/assets/b388af8b-73c1-4145-a302-6d16c08535df" />
 
@@ -100,4 +113,3 @@ Enjeu principal : la croissance historique venant du volume de commandes, les le
 * Environ 180k R$ de CA sans catégorie identifiée
 
   
-Un audit complet de la qualité des données (complétude, valeurs manquantes, décisions) est disponible [ici](https://github.com/JMCharles-dev/charles.jordana/blob/main/audit.csv).
